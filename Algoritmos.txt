@@ -1,0 +1,52 @@
+	Instructores
+
+Crea un programa que se encargue de transformar un numero binario a decimal sin utilizar funciones propias del lenguaje
+
+Crea un programa que calcule quien gana más partidas al piedra,
+papel, tijera.
+- El resultado puede ser: "Player 1", "Player 2", "Tie" (empate)
+- La función recibe un listado que contiene pares, representando cada jugada.
+- El par puede contener combinaciones de "R" (piedra), "P" (papel)
+o "S" (tijera).
+- Ejemplo. Entrada: [("R","S"), ("S","R"), ("P","S")]. Resultado: "Player 2".
+ 
+
+
+Crea un programa que comprueba si los paréntesis, llaves y corchetes
+de una expresión están equilibrados.
+Equilibrado significa que estos delimitadores se abren y cieran en orden y de forma correcta.
+Paréntesis, llaves y corchetes son igual de prioritarios.
+No hay uno más importante que otro.
+Expresión balanceada: { [ a * ( c + d ) ] - 5 }
+Expresión no balanceada: { a * ( c + d ) ] - 5 }
+ 
+Enunciado: Dado un array de números enteros positivos, donde cada uno
+representa unidades de bloques apilados, debemos calcular cuantas unidades
+de agua quedarán atrapadas entre ellos.
+ Ejemplo: Dado el array [4, 0, 3, 6, 1, 3].
+        ⏹
+       ⏹
+  ⏹💧💧 ⏹
+  ⏹💧⏹⏹💧⏹
+  ⏹💧⏹⏹💧⏹
+  ⏹💧⏹⏹⏹⏹
+
+
+Representando bloque con ⏹︎ y agua con 💧, quedarán atrapadas 7 unidades
+de agua. Suponemos que existe un suelo impermeable en la parte inferior
+que retiene el agua.
+
+
+	Aprendices 
+
+Funcion que devuelva una cadena en sentido contrario, por ejemple hello word quedaria drow olleh
+
+Genere e imprima la sucesion de números de la serie fibbonaci:
+
+S = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, …, N
+
+
+Determinar cual es la plabra con mayor caracteres de un parrafo.
+
+
+Dado un listado de números, encuentra el SEGUNDO más grande.
